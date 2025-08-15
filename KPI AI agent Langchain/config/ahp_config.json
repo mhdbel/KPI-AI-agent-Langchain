@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "name": "Decision Criteria",
+        "comparisons": {
+            "('Cost', 'Time')": 3,
+            "('Cost', 'Quality')": 5,
+            "('Time', 'Quality')": 2
+        }
+    },
+    "alternatives": [
+        {
+            "name": "Alternative1",
+            "comparisons": {
+                "('OptionA', 'OptionB')": 2,
+                "('OptionA', 'OptionC')": 4,
+                "('OptionB', 'OptionC')": 3
+            }
+        }
+    ]
+}

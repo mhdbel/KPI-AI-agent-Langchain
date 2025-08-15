@@ -1,0 +1,31 @@
+# Core dependencies
+streamlit>=1.28.0
+pandas>=1.5.0
+numpy>=1.24.0
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.15.0
+scikit-learn>=1.2.0
+requests>=2.28.0
+
+# LangChain dependencies
+langchain>=0.0.300
+langchain-openai>=0.0.2
+openai>=1.0.0
+tiktoken>=0.4.0
+
+# Database and vector store
+chromadb>=0.4.0
+faiss-cpu>=1.7.0
+sqlite3
+
+# AHP library
+ahpy>=1.1.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=1.10.0
+
+# Testing
+pytest>=7.0.0
+pytest-mock>=3.0.0
